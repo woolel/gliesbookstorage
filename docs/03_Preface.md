@@ -1,0 +1,283 @@
+## Preface
+
+In the late 1970s, when I and a small group of students and
+professors at a school of tropical agriculture in Cárdenas,
+Tabasco, Mexico, discussed _agroecología_ —a term we
+thought we had invented—little did we know that agroecology would become a core part of a movement for food-system
+change. Much has happened in the field of agroecology since
+those early days, and much of that is reflected in this third
+edition of _Agroecology_, first published in 1996.
+
+Agroecology has become known for being a science, a
+practice, and part of a social movement focused on transforming food systems to sustainability. It has also become
+clear how important it is that all three of these elements be
+integrated in a transdisciplinary, participatory, and actionoriented way in order to be most effective in bringing about
+the changes that are urgently needed. We now have the
+opportunity to move beyond the thinking of the agronomists
+and technologists who say that by merely increasing yields
+and profits we will be able to meet the food needs of the
+world’s growing population. We were being told this when I
+was teaching at the Colegio Superior de Agricultura Tropical
+in southern Mexico in the late 1970s and the first Green
+Revolution was being touted as the technological miracle for
+agriculture. When we applied our newly emerging ecological focus to the study of these high-yield, high-input systems,
+it quickly became obvious that they suffered from the same
+problems that surround industrial agriculture today, with its
+focus on large-scale monocultures, huge inputs of synthetic
+chemical fertilizers and pesticides, and a top-down research
+and extension program designed to “tell farmers what to do.”
+
+Fortunately, around the college and outside the large
+development projects in southeastern Mexico, there was
+another agriculture—small-scale, traditional Maya agriculture, with 5000 years of cultural memory. For centuries, the
+people of the region had developed, tested, and refined practices that continue to evolve today. Featuring the traditional
+corn–beans–squash intercrop, whole-field _milpa_ agroecosystems, the integration of crops and small livestock, complex
+crop associations and rotations, agroforestry, and remarkable
+tropical home garden systems, this traditional agriculture has
+fed people well for a very long time and appeared to be able
+to do so indefinitely. Working alongside the _campesino_ farmers who managed these systems, we studied their ecological
+foundations, and in the process the principles of agroecology
+were born. At the same time, we begin to solidify our resistance to the Green Revolution model.
+
+When I moved to UC Santa Cruz in 1981 and started the Agroecology Program, another alternative agriculture—organic farming—was just beginning to take off. Organic
+farming not only embodied the ecological approach we had
+developed in Mexico, it also served as a good foundation
+
+from which to continue developing resistance to the dominant
+agricultural paradigm. In the early 1980s, innovative growers were changing their farming systems to organic management, but in most cases they were doing so without much
+backup research to help them through the three-year transition process required for organic certification, much less help
+them design and manage organic crops for the long term.
+Through several years of collaborative farmer-based trials on
+their farms, we carried out transition studies in crops such
+as strawberries, apples, cotton, and artichokes, each with its
+own unique set of issues and challenges. From this experience, we adapted a system developed by Stuart Hill for redesigning food systems for sustainability as a protocol for the
+agroecological study of such transitional systems. We began
+with the first three _levels of conversion_ that are described
+in Chapter 22. We were very successful at the outset with
+Level 2, where we substituted inputs and practices used in
+industrial systems with organically accepted ones. But as
+the limits of a purely substitutive approach were reached—
+especially when growers wanted to maintain the monoculture design they had worked with before transition—we
+came to the realization that a total redesign was needed to
+resist the problems, such as diseases, weeds, and pest insects,
+that came up at both Level 1 and Level 2. This became the
+essence for the agroecosystem redesign process that constitutes Level 3 of conversion, which was presented in the first
+edition of this book and is retained in this new edition.
+
+In the years that followed the release of the first edition
+of _Agroecology_, it quickly became obvious that for the conversion process to reach sustainability, three levels were not
+enough. With only these three levels, all of the responsibility was on the farmers and all the effort was concentrated at
+the farm scale. We also began to observe the cooptation of
+organic production and markets by large growers and corporations, using their scale and market control to intensify production at Level 2. They rarely considered moving to Level
+3. Organic, which in its early years was as much a philosophy
+as it was a way of growing crops, was being captured by the
+industrial food system.
+
+I think a key milestone in our thinking in agroecology
+occurred with the publication in 2003 of an article entitled
+“Agroecology: The ecology of food systems” in the _Journal_
+_of Sustainable Agriculture._ Our team of coauthors, led by
+Chuck Francis, was particularly concerned with the takeover
+of organic agriculture, and as a response we had decided to
+add a Level 4 to the conversion process. This level focused on
+reuniting the two most important parts of the food system—
+those who grow the food and those who eat it. These two
+parts had become so isolated from one another that there was
+no shared knowledge among consumers about how food was
+grown, by whom, or where, nor knowledge among farmers
+about where food went, how it was marketed, and how it was
+consumed. In describing this level of conversion, we were
+aware that alternative food networks had developed enough
+to become a movement resisting the dominance of the industrial food system model, with people beginning to take back
+their right to food system knowledge, and as my friend Rich
+Merrill said long ago, to put some _culture_ back into agri _cul-_
+_ture_ . When the second edition of _Agroecology_ appeared in
+2007, the food system was a central concept, and the reconnection of growers and eaters became Level 4 in the transition process. A chapter was devoted to the alternative food
+system movement.
+
+Since 2007, agroecology and our knowledge of the complexity of food system issues have grown dramatically. The
+global food price spikes and food riots that took place around
+the world in 2008 highlighted the lack of food security and
+access for many people in the world, which became central
+issues in a growing food justice movement. At the same, the
+rapid expansion of genetic engineering in agriculture had
+many extolling the promises of a “second green revolution,”
+as corporate control of the food system became evident in
+everything from the seed to the market. Countering these
+developments, movements for food sovereignty, local and slow
+food, smallholder and family farms, and farmer-to-farmer
+organizations arose and strengthened. It became obvious to
+me as an agroecologist that we needed to expand the scope of
+the field beyond the growing and eating of food. We needed
+to find a political voice, align closely with social movements,
+and focus on developing a grassroots and community-based
+alternative food system that could grow outward and eventually make the industrial food system obsolete.
+
+This commitment to social change gelled at about
+the same time that agroecology began finding new allies
+and sources of support. Important publications, such as
+_Agriculture at a Crossroads_ (published by IAASTD in
+2009) and _Agroecology and the Right to Food_ (published
+by the United Nations Special Rapporteur in 2011), proposed agroecology as an alternative approach for resolving
+the interrelated global problems of hunger, rural poverty,
+and sustainable development. New agroecology degree programs appeared around the world: at Florida International
+University in Miami; Universidad de Córdoba in Andalusia,
+Spain; Universidad de Antioquia in Medellín, Colombia; at
+several universities in Brazil; and elsewhere—most with a
+
+focus that crosses the normal boundaries between natu
+ral and social sciences. Farmer organizations such as Via
+Campesina put forward agroecology as a primary means of
+creating food sovereignty, opportunity, and justice in farming communities. The science of agroecology found new
+outlets for its research when the journal publisher agreed to
+change the name of the _Journal of Sustainable Agriculture_
+to _Agroecology and Sustainable Food Systems_ beginning in
+2013. It was clear to me that we were witnessing the beginning of a paradigm shift with the potential to move the
+entire food system to a sustainable basis. This would entail
+fundamental changes in our social, cultural, and economic
+
+systems and institutions—which would go beyond what we
+had described for Level 4. A fifth level of conversion was
+needed to complete the transformation of food systems to
+sustainability, and thus Level 5 features prominently in the
+final section of this third edition.
+
+As I look back on the 40-plus-year journey I have had
+in agroecology, I find two personal projects that illustrate
+how the creation of Level 5 came about. The first began as
+a group effort among some of my graduate students (listed
+below), my wife Robbie Jaffe, and me through our work
+in the coffee-growing communities of Mexico and Central
+America, which at the time were undergoing the worst
+price crash in the history of coffee as a commodity crop.
+We formed the nonprofit network Community Agroecology
+Network (CAN; described in more detail in Chapter 25),
+and began working with the growers at Levels 3 and 4
+simultaneously. As the network grew to include non-coffee-growing communities, we quickly jumped to Level 5
+with programs in food security, food sovereignty, health
+and nutrition, and youth leadership. Social change became
+linked with sustainable farming.
+
+The other project was applying the practice of agroecology on our own farm, Condor’s Hope Ranch. By combining agroecology with the traditional dry-farming practice,
+described in Chapter 6, for wine grapes and olives, our family developed a farming operation that we hope to someday
+pass on to our children, nieces, nephews, and grandchildren. In the 20 years since beginning the farm, we have
+dealt with multiple farming practice challenges, but the bigger issues are how a small family operation can compete
+in the highly corporatized industries of wine and olive oil
+and how we can encourage our future generations to carry
+on with the same passion and opportunity that Robbie and I
+have had. These are Level 5 issues.
+
+Agroecology has matured as a science, is recognized as
+an important practice, and has aligned with a growing social
+movement for food system change. Our goal is to develop
+food systems that meet local and regional food, feed, and
+fiber needs, conserve and protect natural resources, provide
+essential environmental services, ensure food security and
+sovereignty, make food justice a reality, and create the opportunity for present and future generations to enjoy healthy and
+satisfying lives.
+
+That may sound like a lot for the field of agroecology to
+take on. But I think you will see how this can happen as you
+make your way through the book. It begins with a strong ecological foundation for farming practices and ends with all of
+us thinking about the critical importance of transitioning to a
+new paradigm for food and agriculture, and what this means
+for our future.
+
+I conclude this preface by acknowledging and thanking the innumerable people who have helped me form my
+agroecological vision over these many years. Among those
+that I value as colleagues are Itziar Aguirre, Miguel Altieri,
+Francisco Roberto Caporal, José Antonio Costabeber, Joao
+Carlos Costa Gomes, Bruce Fergeson, Chuck Francis, Roberto
+Garcia Espinosa, Alba Gonzalez Jácome, Manuel Gonzalez de Molina, Gloria Guzmán, Juan José Jimenez Osornio, Avaz
+Koocheki, Helda Morales, Jaime Morales, Clara Nichols,
+Ron Nigh, Ivette Perfecto, Paolo Peterson, Francisco Rosado
+May, Eduardo Sevilla Guzmán, Vivan Vadakan, John
+Vandermeer, Graham Woodgate, and the faculty and staff
+of Environmental Studies at UCSC. I realize there are many
+others who should appear on this list, and I apologize for any
+omissions.
+
+I deeply appreciate all that I have learned from a very
+special group of graduate students who have all truly earned
+the title of agroecologist: Jan Allison, Nick Babin, Marcus
+Buchanan, Rose Cohen, Wes Colvin, Ariane de Bremond,
+Francisco Espinosa, Michelle Glowa, Carlos Guadarrama,
+Kathy Hilimire, Eric Holt-Gimenez, Robbie Jaffe, Rob
+Kluson, Leslie Linn, Hillary Melcarek, V. Ernesto Méndez,
+Carlo Moreno, Joanna Ory, Jim Paulus, Francisco Rosado
+May, Martha Rosemeyer, Devon Sampson, and Laura Trujillo.
+Over the years, I have been able to collaborate with a remarkably diverse group of postdoctoral researchers: Gianumberto
+Accinelli, Belén Cotes, Erle Ellis, Manolis Kabourakis, Rie
+Mayaura, Eleonora Morganti, Joji Muramoto, Sunita Rao,
+Jesus Juan Rosales, Anastasia Scotto, Tatiana Sevilla, Koos
+Steyn, and Roberto Tinoco. I am also deeply indebted to
+what seems like a multitude of undergraduate students who
+were the initial stimulus for this textbook. Their passion for
+food system change and hope for the future helped transform
+this book into what it has become.
+
+Much appreciation goes to Mike Amato and Catherine
+Van Sciver at Taylor & Francis Group, and the entire board
+of editors of _Agroecology and Sustainable Food System_ s, for
+making the journal the transdisciplinary voice for the science of agroecology. To Ruth and Alf Heller, to whom I dedicate this book, I owe the deepest gratitude for their unending
+support for agroecology and heartfelt vision for future food
+
+systems. I am honored to have my _compadre en la lucha_,
+Ricardo Salvador, prepare the foreword for this edition of
+_Agroecology_ . He has been a model for me of how to integrate
+education, action, and a willingness to work at the top in the
+change process. A very special thanks goes to John Sulzycki,
+senior editor at CRC Press/Taylor & Francis Group, without
+whose belief in agroecology and deadlines this edition would
+have been almost impossible to complete. It wasn’t as simple
+as he thought it would be!
+
+Without a doubt, the person I owe the most for bringing
+this edition into existence is master editor Eric Engles. The
+_with_ before his name on the title page has a remarkable story
+behind it. His capacity for keeping track of details, editing
+my writing, and shaping ideas, and his insistence that the
+full story of power and concentration be told, made this book
+what it is and helped greatly in adding Level 5 to the transformation process that needs to happen for the future of food,
+agriculture, and our planet.
+
+Finally, I have an accumulated debt of gratitude that I owe
+my _compañera_ Robbie Jaffe, who has supported this book
+project from its initial inception in the mid-1990s. Over the
+past year, while this edition has taken shape, she has patiently
+(and sometimes not so patiently) given me the space and time
+I needed. Be it as a skilled environmental educator, as founding executive director of CAN, or as co-farmer at Condor’s
+Hope, her own commitment to food system change is unsurpassed. As she has shared agroecology with me, we both continue today to share agroecology with our mutual families
+of four generations, from which our heritage comes and to
+whom we pass it on.
+
+**Steve Gliessman**
+_Condor’s Hope Ranch_
+_New Cuyama, California_
+Author
+**Stephen R. Gliessman**
+earned graduate degrees in
+botany, biology, and plant
+ecology from the Univer­
+sity of California, Santa
+Barbara, and has accumulated more than 40 years
+of teaching, research, and
+production experience in
+the field of agroecology.
+His international experiences in tropical and temperate agriculture, small-farm and
+large-farm systems, traditional and conventional farm management, hands-on and academic activities, nonprofit and
+business employment, and organic and synthetic chemical
+farming approaches have provided a unique combination
+of experiences and perspectives to incorporate into this
+book. He was the founding director of the University of
+California, Santa Cruz, Agroecology Program, one of the
+first formal agroecology programs in the world, and was
+the Alfred and Ruth Heller Professor of Agroecology in
+the Department of Environmental Studies at UCSC until
+his retirement in 2012. He is the cofounder of the nonprofit
+Community Agroecology Network (CAN) and is currently
+the president of its board of directors. He is the editor of the
+international journal _Agroecology and Sustainable Food_
+_Systems_ . He dry-farms organic wine grapes and olives with
+his wife Robbie, son Erin, and daughter-in-law Oriana in
+northern Santa Barbara County, California.
