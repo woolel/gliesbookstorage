@@ -1,0 +1,41 @@
+## _Section I_ _Introduction to Agroecology_
+
+As the science of connections among living things, ecology affords a way of looking at agriculture that immediately
+expands its scope well beyond tilling, sowing, cultivating,
+harvesting, and marketing. In _agroecology_, we move from
+a narrow concern with farming practices to the whole universe of interactions among crop plants, soil, soil organisms, insects, insect enemies, environmental conditions, and
+management actions and beyond that to the effects of farming systems on surrounding natural ecosystems. Expanding
+this to a global scale, we see agriculture as the most landintensive human activity on the earth, which leads us to consider the overall effects of farming on the ability of the earth
+to support its populations of humans and other living things.
+Examining human beings as a particular population, the ecological perspective then encourages us to look into the social
+world, at such topics as human food consumption patterns,
+the proportion of farmers to consumers, and the unequal distribution of food.
+
+Casting the net of relevance this broadly leads, we hope,
+to an integrated perspective in which agriculture can be seen
+as a key factor—perhaps _the_ key factor—in an intensifying
+
+crisis confronting humankind. Agriculture is not only a
+major cause of this crisis; it is also an arena full of potential solutions. The most basic goal of this section is to introduce readers to this greatly expanded way of thinking about
+agriculture.
+
+Chapter 1 describes the many harms to people, soil,
+resources, and ecosystems brought about by the way we
+produce food today and discusses how applying ecological
+concepts and principles to the design and management of
+systems of food production—the essence of agroecology—
+can help us produce food more sustainably. In this way, the
+chapter constructs an overall context for everything we will
+consider in this text. Chapter 2 then outlines the fundamental
+concepts, theories, and perspectives that make up the framework of agroecology—thus establishing the foundation of the
+approach to growing food that we present in Chapter 1 as the
+alternative to the unsustainable system we have now. With an
+understanding of the stakes involved in how we humans grow
+our food and knowledge of the agroecosystem concept, the
+reader is prepared to explore the many layers of understanding that make up agroecology.
+
+
+**2** Introduction to Agroecology
+
+
+**FIGURE S.1** **An intensive vegetable-based agroecosystem on the urban fringe of Shanghai, China.** In systems such as this, food is produced for local markets without much of the fertilizer, pesticides, and machinery characteristic of large-scale, single-crop agroecosystems.
