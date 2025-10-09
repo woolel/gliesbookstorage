@@ -34,7 +34,6 @@ _**Section II Plants and Abiotic Factors of the Environment**_
 
 **Chapter 10** Fire
 
-
 _**Section III A More Complete Autecological Perspective**_
 
 **Chapter 11** Biotic Factors **.**
@@ -77,6 +76,4 @@ _**Section VI Bringing about a Sustainable World Food System**_
 
 **Glossary**
 
-
-**References** 
-
+**References**
