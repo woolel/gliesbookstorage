@@ -2,7 +2,7 @@
 
 Foreword
 
-Preface /A uthor
+Preface / Author
 
 Recommendations for Using This Textbook
 
