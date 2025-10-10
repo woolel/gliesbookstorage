@@ -1,4 +1,4 @@
-## Preface
+## Preface / author
 
 In the late 1970s, when I and a small group of students and professors at a school of tropical agriculture in Cárdenas, Tabasco, Mexico, discussed _agroecología_ —a term we thought we had invented—little did we know that agroecology would become a core part of a movement for food-system change. Much has happened in the field of agroecology since those early days, and much of that is reflected in this third edition of _Agroecology_, first published in 1996.
 
