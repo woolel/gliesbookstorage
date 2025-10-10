@@ -1,10 +1,8 @@
-## Contents / author
+## Contents
 
 Foreword
 
-Preface
-
-Author
+Preface /A uthor
 
 Recommendations for Using This Textbook
 
