@@ -37,5 +37,5 @@
  무엇보다 농생태학은 지속 가능한 농업을 추구하면서도 그 과정에서 농민의 생산성과 경제성을 견지하도록 돕는 전환과정에 천착하고 있어 그 성과가 기대됩니다.
 
  <Callout>
-울산저널에(https://m.usjournal.kr/news/newsIssue.php?iid=61) '농생태학의 이해'라는 제목으로 연재되었던 것을 일부 수정한 글입니다.
+울산저널에( https://m.usjournal.kr/news/newsIssue.php?iid=61 ) '농생태학의 이해'라는 제목으로 연재되었던 것을 일부 수정한 글입니다.
 </Callout>
