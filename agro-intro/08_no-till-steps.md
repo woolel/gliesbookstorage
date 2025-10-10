@@ -31,8 +31,8 @@
  작부체계의 다양한 구성과 사계절에 걸친 덮개 작물 운용은 무경운에서 발생할 수 있는 토양 경화나 토양 무기물 구성의 편협성을 해소하는 원동력입니다. 무경운을 실천하지 않는 농사라 하더라도 위와 같은 방식을 채택한다면, 밭과 작물의 건강성을 획득하는 데에 큰 도움이 됩니다. 일반적인 농사에서 제초제를 살포한다거나 작물에 농약을 치는 것에 드는 비용과 시간, 노동을 생각한다면 녹비 작물을 심고 사이짓기와 섞어짓기를 도입하는 것이 더 힘들고 고된 일은 아닐 것입니다. 실제로 보리나 옥수수 등의 사이짓기는 해충 발생을 현저히 줄여줍니다. 일반적으로 농업생태계의 식물 다양성 확보가 병해충 발생을 낮춘다는 것은 일반적인 농학에서도 강조하는 부분입니다.          
 
 “To till or not to till in a temperate ecosystem? Implications for climate change mitigation” H V Cooper, S Sjögersten, R M Lark and S J Mooney Division of Agricultural and Environmental Sciences, School of Biosciences, Sutton Bonington Campus, University of Nottingham, Loughborough, Leicestershire LE12 5RD, United Kingdom
-(https://iopscience.iop.org/article/10.1088/1748-9326/abe74e)
+( https://iopscience.iop.org/article/10.1088/1748-9326/abe74e )
 
 <Callout>
-울산저널에(https://m.usjournal.kr/news/newsIssue.php?iid=61) '농생태학의 이해'라는 제목으로 연재되었던 것을 일부 수정한 글입니다.
+울산저널에( https://m.usjournal.kr/news/newsIssue.php?iid=61 ) '농생태학의 이해'라는 제목으로 연재되었던 것을 일부 수정한 글입니다.
 </Callout>
