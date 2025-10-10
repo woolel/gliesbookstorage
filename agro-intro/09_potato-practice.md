@@ -56,5 +56,5 @@
  밭갈이하지 않는 데에서 오는 이점을 누리면서도 생산성을 유지하는 무경운 재배방식이 필요하고, 그 방법론이 체계화되어야 합니다.
 
  <Callout>
-울산저널에(https://m.usjournal.kr/news/newsIssue.php?iid=61) '농생태학의 이해'라는 제목으로 연재되었던 것을 일부 수정한 글입니다.
+울산저널에( https://m.usjournal.kr/news/newsIssue.php?iid=61 ) '농생태학의 이해'라는 제목으로 연재되었던 것을 일부 수정한 글입니다.
 </Callout>
