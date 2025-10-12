@@ -1,4 +1,4 @@
-## 18. Disturbance, Succession, and Agroecosystem Management
+## chapter 18. Disturbance, Succession, and Agroecosystem Management
 
 The ecological concepts of disturbance and recovery through succession have important application in agroecology. Agroecosystems are constantly undergoing disturbance in the form of cultivation, soil preparation, sowing, planting, irrigation, fertilizer application, pest management, pruning, harvesting, and burning. When disturbance is frequent, widespread, and intense—as it is in industrial agriculture— agroecosystems are limited to the earliest stages of succession. This condition enables high productivity but requires large inputs of fertilizer and pesticides, and tends to degrade the soil resource over time.
 
