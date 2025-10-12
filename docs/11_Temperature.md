@@ -1,4 +1,4 @@
-## 5. Temperature
+## chapter 5. Temperature
 
 The effect of temperature on the growth and development of plants and animals is well known and easily demonstrated. Each organism has certain limits of tolerance for high and low temperatures, determined by its particular adaptations for temperature extremes. Each organism also has an optimum temperature range, which can vary depending on the stage of development. Because of their different reactions to temperature, papayas are not planted in the cool coastal temperate environment of the Monterey Bay of California, and apples would not do well if planted in the humid tropical lowlands of Tabasco, Mexico.
 
