@@ -1,4 +1,4 @@
-## 12. The Environmental Complex
+## chapter 12. The Environmental Complex
 
 The previous chapters have examined the separate influences of individual environmental factors on the crop plant. The chapters in Section II looked at the abiotic factors of the environment—light, temperature, precipitation, wind, soil, soil moisture, and fire—and then Chapter 11 added other organisms to the suite of factors we must be aware of when considering the effect of the environment on crop plants. Although it is important to understand the impact that each of these factors has by itself, rarely does any factor operate alone or in a consistent manner on the organism. Moreover, all of the factors that have been discussed as separate components of the environment also interact with and affect each other. Therefore, the environment in which an individual organism occurs needs to be understood as a dynamic, ever-changing composite of all the interacting environmental factors—that is, as an **environmental complex** .
 
