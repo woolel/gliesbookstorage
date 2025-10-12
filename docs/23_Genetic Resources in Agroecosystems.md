@@ -1,4 +1,4 @@
-## 15. Genetic Resources in Agroecosystems
+## chapter 15. Genetic Resources in Agroecosystems
 
 Agriculture came about as early human cultures intensified their use and care of particular plants and animals that they found to be of value. During this process, humans inadvertently selected for specific traits and qualities in these useful organisms, altering their genetic makeup over time. Their ability to produce edible or useful biomass was enhanced, but their ability to survive without human intervention was reduced. Humans came to depend on these domesticated species for food, feed, and fiber, and most of them became dependent on us. This interdependence between humans and domesticated species is the essence of agriculture, and it was made possible by the indirect manipulation of organisms’
 
