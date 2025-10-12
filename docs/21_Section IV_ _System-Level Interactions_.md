@@ -1,4 +1,4 @@
-## _Section IV_ _System-Level Interactions_
+## _Section 4_ _System-Level Interactions_
 
 With a grounding in the autecological knowledge developed in Sections II and III, we can now expand our perspective to the _synecological_ level—the study of how groups of organisms interact in the cropping environment. This whole-system perspective stresses the need for understanding the emergent qualities of populations, communities, and ecosystems and how these qualities are put to use in designing and managing sustainable agroecosystems.
 
