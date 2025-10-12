@@ -1,4 +1,4 @@
-## 22. _­_ Converting to Ecologically Based Management _­_
+## chapter 22. _­_ Converting to Ecologically Based Management _­_
 
 Farmers have a reputation for being innovators and experimenters, willingly adopting new practices when they perceive that some benefit will be gained. Over the past 50–60 years, innovation in agriculture has been driven mainly by an emphasis on high yields and farm profit, resulting in not only remarkable returns but also an array of negative environmental and social side effects. Despite the continuation of strong pressure to focus on the bottom line, however, many farmers are choosing to make the transition to practices that are more environmentally sound and have the potential for contributing to long-term sustainability for agriculture. Others are starting agricultural enterprises from scratch that incorporate a variety of ecologically informed approaches. Both types of efforts represent “conversion” in the broad sense.
 
