@@ -1,4 +1,4 @@
-## 16. Species Interactions in Crop Communities
+## chapter 16. Species Interactions in Crop Communities
 
 In ecological terms, a cropping system is a _community_ formed by a complex of interacting populations of crops, weeds, microorganisms, insects, and sometimes other animals. The interactions among the populations of the crop community, which arise from the different kinds of interference, give the community characteristics, called emergent qualities, which exist only at the community level. These emergent qualities cannot be fully explained in terms of the properties of populations or individuals. In both natural ecosystems and agroecosystems, community-level phenomena are of critical importance in a system’s resilience, productivity, and dynamic functioning.
 
