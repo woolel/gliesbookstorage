@@ -1,4 +1,4 @@
-## _Section V_ _The Transition to Sustainability_
+## _Section 5_ _The Transition to Sustainability_
 
 The appearance of the so-called Brundtland Report (WCED 1987) in the late 1980s marked the emergence of sustainability as an issue of central concern in agriculture, rural development, natural resource use, and indeed every human endeavor. Since that time, a growing community of researchers and practitioners has made significant progress in developing useful systems for implementing and measuring sustainability, particularly in agriculture.
 
