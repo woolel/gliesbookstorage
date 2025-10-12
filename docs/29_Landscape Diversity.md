@@ -1,4 +1,4 @@
-## 21. Landscape Diversity
+## chapter 21. Landscape Diversity
 
 Since the beginning of agriculture, humans have been altering and displacing naturally occurring terrestrial ecosystems across the face of the earth, largely for the purpose of creating agroecosystems. Not long ago in human history, when all agriculture was traditional and small scale, agroecosystems were interspersed as small patches across the larger natural landscape. Managed habitats maintained the integrity of natural ecosystems while diversifying the landscape. Today, in contrast, agricultural land uses predominate, making natural habitats the patches that are dispersed over much of the earth’s land surface. The ongoing process of converting land to agricultural production has had a dramatic and usually negative impact on the diversity of organisms and the integrity of ecological processes, and it has contributed significantly to climate change (Figure 21.1).
 
