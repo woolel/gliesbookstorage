@@ -1,4 +1,4 @@
-## 25. Community and Culture in the Remaking of the Food System
+## chapter 25. Community and Culture in the Remaking of the Food System
 
 In his book _Radical Agriculture_, published in 1976, Rich Merrill wrote about the need to “get culture back into agriculture” (Merrill 1976). His was an early voice calling attention to the negative effects of a process that had already been under way for decades: the transformation of agriculture into agribusiness.
 
