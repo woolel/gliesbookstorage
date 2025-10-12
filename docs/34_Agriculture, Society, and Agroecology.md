@@ -1,4 +1,4 @@
-## 24. Agriculture, Society, and Agroecology
+## chapter 24. Agriculture, Society, and Agroecology
 
 In Chapter 1, we described the many serious harms to the environment, to society, and to the foundations of agricultural productivity that are part of the price we pay for the prodigious productivity of the system of industrial agriculture that dominates much of the world today. Among these many harms, industrial agriculture drains ancient aquifers, depletes soils that have been built up over millennia, reduces biodiversity, adds huge volumes of greenhouse gases to the atmosphere, damages the natural systems that provide us with critical ecosystem services, and puts the control of food production in the hands of fewer and fewer people.
 
