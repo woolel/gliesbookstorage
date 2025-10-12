@@ -1,4 +1,4 @@
-## 23. Indicators of Sustainability
+## chapter 23. Indicators of Sustainability
 
 What is a sustainable agroecosystem? In Chapter 1 we answered this question by saying that a sustainable agroecosystem is one that maintains the resource base upon which it depends, relies on a minimum of artificial inputs from outside the farm system, manages pests and diseases through internal regulating mechanisms, and is able to recover from the disturbances caused by cultivation and harvest.
 
