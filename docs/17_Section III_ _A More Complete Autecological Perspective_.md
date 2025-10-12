@@ -1,4 +1,4 @@
-## _Section III_ _A More Complete Autecological Perspective_
+## _Section 3_ _A More Complete Autecological Perspective_
 
 In the preceding chapters, we’ve restricted our attention to the ways in which individual factors of the environment affect individual crop plants. Although these interactions are the foundation of the autecological perspective, they do not make up the entire picture.
 
