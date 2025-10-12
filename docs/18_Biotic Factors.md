@@ -1,4 +1,4 @@
-## 11. Biotic Factors
+## chapter 11. Biotic Factors
 
 Abiotic factors of the environment such as light, temperature, and mineral nutrients are not the only constituents of the environment that impact crop plants. Just as important are biotic factors—that is, living organisms and the conditions created and modified by them. An insect herbivore such as a locust, for example, can have an enormous impact on a crop plant, as can a neighboring plant that harbors nitrogen-fixing bacteria in its root nodules or conserves the soil moisture by shading the soil surface.
 
