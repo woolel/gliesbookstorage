@@ -1,4 +1,4 @@
-## 14. Population Ecology of Agroecosystems
+## chapter 14. Population Ecology of Agroecosystems
 
 In agronomy and industrial agriculture, the center of attention is the population of organisms—whether crop plants or livestock—from which the product will be extracted. A farmer attempts to maximize the performance of this ­population by managing the various factors of the environmental complex. When sustainability of the entire agroecosystem becomes the primary concern, however, this narrow focus on the needs of one usually genetically homogenous population becomes wholly inadequate. The agroecosystem must be viewed as a collection of interacting populations of many kinds of organisms, including noncrop species, animals, and microorganisms.
 
