@@ -1,4 +1,4 @@
-## 2. Agroecology and the Agroecosystem Concept
+## chapter 2. Agroecology and the Agroecosystem Concept
 
 The entire field of agroecology derives from one central concept—that of the agroecosystem. An **agroecosystem** is a site or integrated region of agricultural production—a farm, for example—understood as an ecosystem. The agroecosystem concept provides a framework with which to analyze food production systems as wholes, including their complex sets of inputs and outputs and the interconnections of their component parts. Extended even further, agroecostemic thinking incorporates social systems—as the structures within which humans as food consumers organize food distribution through markets and other means.
 
