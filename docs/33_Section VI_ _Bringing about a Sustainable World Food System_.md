@@ -1,4 +1,4 @@
-## _Section VI_ _Bringing about a Sustainable World Food System_
+## _Section 6_ _Bringing about a Sustainable World Food System_
 
 Broadly considered, the farm-scale conversion process discussed in detail in Section V is the necessary foundation of the much larger _conversion_ that must occur for the world food system to become sustainable. Venturing beyond farms, we encounter economic systems of varying scales, political institutions, values and beliefs, patterns of behavior, social structures, and the like. Although these aspects of human society are all outside the traditional purview of agronomy and even of much agroecological consideration, they form the context within which agroecology must operate if it hopes to move the food system toward sustainability. In terms of the levels of conversion described in Chapter 22, they make up the territory we are concerned with in pushing forward levels 4 and 5 of the conversion process.
 
