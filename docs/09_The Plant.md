@@ -1,4 +1,4 @@
-## 3. The Plant
+## chapter 3. The Plant
 
 The design and management of sustainable agroecosystems has important foundations in our understanding of how individual plants grow, develop, and eventually become the plant matter we use, consume, or feed to our animals. This chapter reviews some of the more important plant physiological processes that allow a plant to live, convert sunlight into chemical energy, and store that energy in parts of the plant and in forms we can use. The chapter also reviews some of the principal nutritional needs of plants. Finally, by way of introduction to the rest of the chapters in Section II, the chapter reviews some of the most important concepts and terms used to describe the ways individual plants respond and adapt to the range of environmental factors we will be examining.
 
