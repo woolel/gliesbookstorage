@@ -1,4 +1,4 @@
-## 10. Fire
+## chapter 10. Fire
 
 Fire is a major form of environmental change or disturbance. In natural ecosystems, it removes dominant plant species, displaces animals, returns nutrients to the soil, and burns accumulated litter on the forest floor. Nearly all the vegetation of the earth has been influenced in some way by fire. Periodic fires of varying frequencies and intensities are thought to occur in most ecosystems, especially in regions with pronounced dry seasons.
 
