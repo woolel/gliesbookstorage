@@ -1,4 +1,4 @@
-## 13. Heterotrophic Organisms
+## chapter 13. Heterotrophic Organisms
 
 So far we’ve discussed agroecosystems as if they are based entirely on the growth of plants. Although plants are indeed the foundation for growing our food, we can’t ignore the fact that animals—and other non-photosynthesizing organisms, like insects and fungi and some protists—are both absolutely essential elements of agroecosystems and factors that must be taken into account in managing these systems. In Chapter 2 we defined these organisms as _heterotrophs_, or all organisms that meet their nutritive and energetic needs by consuming other organisms.
 
