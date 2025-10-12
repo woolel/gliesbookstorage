@@ -1,4 +1,4 @@
-## 4. Light
+## chapter 4. Light
 
 Light from the sun is the primary source of energy for ecosystems. It is captured by plants through photosynthesis and its energy stored in the chemical bonds of organic compounds. Sunlight also drives the earth’s weather: light energy transformed into heat affects rainfall patterns, surface temperature, wind, and humidity. The way these factors of the environment are distributed over the face of the earth deter mines climate and is of considerable importance in agriculture. All these light-related factors will be reviewed in more detail in subsequent chapters.
 
