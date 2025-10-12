@@ -1,4 +1,4 @@
-## 6. Humidity and Rainfall
+## chapter 6. Humidity and Rainfall
 
 A place’s natural vegetation is usually a reliable indicator of its rainfall regime. Deserts, with their sparse, slow-growing vegetation, tell the observer that the local annual rainfall is minimal. The lush vegetative growth of tropical and temperate rainforests points to abundant rainfall through at least most of the year. Rainfall amounts and vegetation have this direct relationship because for most terrestrial ecosystems, water is the most important limiting factor.
 
