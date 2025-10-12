@@ -1,4 +1,4 @@
-## _Section I_ _Introduction to Agroecology_
+## _Section 1_ _Introduction to Agroecology_
 
 As the science of connections among living things, ecology affords a way of looking at agriculture that immediately expands its scope well beyond tilling, sowing, cultivating, harvesting, and marketing. In _agroecology_, we move from a narrow concern with farming practices to the whole universe of interactions among crop plants, soil, soil organisms, insects, insect enemies, environmental conditions, and management actions and beyond that to the effects of farming systems on surrounding natural ecosystems. Expanding this to a global scale, we see agriculture as the most landintensive human activity on the earth, which leads us to consider the overall effects of farming on the ability of the earth to support its populations of humans and other living things. Examining human beings as a particular population, the ecological perspective then encourages us to look into the social world, at such topics as human food consumption patterns, the proportion of farmers to consumers, and the unequal distribution of food.
 
