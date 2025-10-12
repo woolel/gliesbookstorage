@@ -1,4 +1,4 @@
-## _Section II_ _Plants and Abiotic Factors of the Environment_
+## _Section 2_ _Plants and Abiotic Factors of the Environment_
 
 In the absence of photosynthesis, life on earth would probably consist of little more than colonies of one-celled chemotrophic bacteria. On land, the preeminent practitioners of photosynthesis are the higher (i.e., vascular) plants. As the producers upon which nearly all other life forms depend, vascular plants form the foundation of virtually all terrestrial ecosystems—and all the agroecosystems from which humans derive most of their food.
 
