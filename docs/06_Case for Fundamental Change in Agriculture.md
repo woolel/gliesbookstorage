@@ -1,4 +1,4 @@
-## 1. Case for Fundamental Change in Agriculture
+## chapter 1. Case for Fundamental Change in Agriculture
 
 According to a variety of measures, agriculture, considered on a global scale, posted a long streak of extraordinary successes beginning shortly after World War II. During the latter half of the twentieth century, yields per hectare of staple crops such as wheat and rice increased dramatically, food prices declined, the rate of increase in food production generally exceeded the rate of population growth, and chronic hunger diminished. This boost in food production was due mainly to scientific advances and technological innovations, including the development of new plant varieties, the use of fertilizers and pesticides, and the growth of extensive infrastructures for irrigation, all of which contributed to the development of what we will call _industrial agriculture_ .
 
