@@ -1,4 +1,4 @@
-## 26. From Sustainable Agroecosystems to a Sustainable Food System
+## chapter 26. From Sustainable Agroecosystems to a Sustainable Food System
 
 In the previous chapter, we focused on the need to reconnect the two most important parts of the food system: those who grow the food and those who eat it. As localized alternative food networks spring up around the world and grow in size and influence, the global food system begins to be transformed in the direction of sustainability. But this phenomenon by itself, while an important driver of change, represents only part of what needs to happen. Ultimately what is needed is a paradigm shift—a fundamental revolution in thinking, values, ethics, and belief systems, and in the social and economic organization of human societies. Food-system sustainability will be attained only with a parallel transformation in the way that the human species occupies planet earth.
 
