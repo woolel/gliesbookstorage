@@ -1,4 +1,4 @@
-## 9. Water in the Soil
+## chapter 9. Water in the Soil
 
 Water is continually flowing through the body of a plant: leaving the stomata via transpiration and entering through the roots. For this reason, plants depend on having a certain amount of water available to their roots in the soil. Without
 
