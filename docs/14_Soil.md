@@ -1,4 +1,4 @@
-## 8. Soil
+## chapter 8. Soil
 
 The word _soil_, in its broadest sense, refers to that portion of the earth’s crust where plants are anchored; this includes everything from the deep soils of a river bottomland to a crevice in a rock with a bit of dust and plant debris. More specifically, the soil is that weathered superficial layer of the earth that is mixed with living organisms and the products of their metabolic activities and decay (Odum and Barrett 2005). Soil includes material derived from rocks, organic and inorganic substances derived from living organisms, and the air and water occupying the spaces between soil particles. As a distinct ecological and geophysical zone, the soil is often referred to as the **pedosphere** ( _pedon_ is the ancient Greek word for soil or earth).
 
