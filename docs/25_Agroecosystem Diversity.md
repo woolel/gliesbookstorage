@@ -1,4 +1,4 @@
-## 17. Agroecosystem Diversity
+## chapter 17. Agroecosystem Diversity
 
 Both agroecosystems and natural ecosystems are made up of organisms and the nonliving physical environment in which the organisms live. The three preceding chapters have been concerned primarily with the organismal, or biotic, components of these systems, at the level of populations and communities. In this chapter, we begin to add the abiotic components of ecosystems to the picture, thereby reaching the ecosystem level of study. At this level, we look at systems as wholes, gaining a more complete picture of their structure and functioning.
 
